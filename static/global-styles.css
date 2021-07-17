@@ -1,0 +1,14 @@
+@import url('https://rsms.me/inter/inter.css');
+html {
+	font-family: 'Inter', sans-serif;
+}
+body {
+  background: white;
+  background-image: radial-gradient(#ccc 1px, transparent 0);
+  background-size: 40px 40px;
+  background-position: -19px -19px;
+}
+h1 {
+	font-weight: 900; font-size: 6em; line-height: 1em; margin: 0.3em 0;
+	letter-spacing: -0.036em;
+}
